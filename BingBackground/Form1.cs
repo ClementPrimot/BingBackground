@@ -62,7 +62,8 @@ namespace BingBackground
             }
 
             var fileCount = (from file in Directory.EnumerateFiles(@"Background/", "*.jpg", SearchOption.AllDirectories)
-                             select file).Count(); 
+                             select file).Count();
+            backgroundurl = backgroundurl.Replace("1366x768", ConfigurationManager.AppSettings["resolution"]);
             client.DownloadFile("http://bing.com" + backgroundurl, "Background/" + fileCount + ".jpg"); 
             SetWallpaper( fileCount  + ".jpg");
 

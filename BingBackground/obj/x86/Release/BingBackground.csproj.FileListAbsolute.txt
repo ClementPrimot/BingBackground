@@ -6,3 +6,4 @@ C:\Users\Volting\documents\visual studio 2010\Projects\BingBackground\BingBackgr
 C:\Users\Volting\documents\visual studio 2010\Projects\BingBackground\BingBackground\obj\x86\Release\BingBackground.csproj.GenerateResource.Cache
 C:\Users\Volting\documents\visual studio 2010\Projects\BingBackground\BingBackground\obj\x86\Release\BingBackground.exe
 C:\Users\Volting\documents\visual studio 2010\Projects\BingBackground\BingBackground\obj\x86\Release\BingBackground.pdb
+C:\Users\Volting\Documents\Visual Studio 2010\Projects\BingBackground\BingBackground\obj\x86\Release\BingBackground.csprojResolveAssemblyReference.cache
